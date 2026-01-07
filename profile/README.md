@@ -34,7 +34,7 @@ We're building a comprehensive platform that helps developers, students, hobbyis
 
 Here you'll find our open-source tools and resources:
 
-- **FreeHosts Directory** - Our main platform and database
+- **FreeHosts Directory** - Our main platform
 - **Comparison Tools** - Side-by-side hosting comparisons
 - **Migration Guides** - Seamless transitions between providers
 - **Community Resources** - Templates, scripts, and utilities
@@ -63,8 +63,7 @@ Check out our contributing guidelines in each repository to get started!
 
 ## 📫 Get In Touch
 
-- 🌐 Visit us at [FreeHosts](https://freehosts.space)
-<!-- - 💬 Join our discussions in [GitHub Discussions](https://github.com/orgs/freehostsofficial/discussions) -->
+- 🌐 Visit us at [FreeHosts](https://freehosts.space)<!-- - 💬 Join our discussions in [GitHub Discussions](https://github.com/orgs/freehostsofficial/discussions) -->
 - 🐦 Follow us for updates
 - 📧 Reach out to our team
 
