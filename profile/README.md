@@ -1,4 +1,4 @@
-# 🌐 Welcome to FreeHosts.space
+# 🌐 Welcome to FreeHosts
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Check out our contributing guidelines in each repository to get started!
 
 ## 📫 Get In Touch
 
-- 🌐 Visit us at [FreeHosts](https://freehosts.space)<!-- - 💬 Join our discussions in [GitHub Discussions](https://github.com/orgs/freehostsofficial/discussions) -->
+- 🌐 Visit us at [FreeHosts](https://freehosts.eu)<!-- - 💬 Join our discussions in [GitHub Discussions](https://github.com/orgs/freehostsofficial/discussions) -->
 - 🐦 Follow us for updates
 - 📧 Reach out to our team
 
